@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Asd_Portfolio/static/css/main.32f5f5bd.css",
+    "main.js": "/Asd_Portfolio/static/js/main.7957d6d5.js",
+    "static/js/787.bb48cbbb.chunk.js": "/Asd_Portfolio/static/js/787.bb48cbbb.chunk.js",
+    "static/media/Aws_training.pdf": "/Asd_Portfolio/static/media/Aws_training.5ab64a5ce7e1a9185955.pdf",
+    "static/media/PL-900_Certificate.pdf": "/Asd_Portfolio/static/media/PL-900_Certificate.702a200b62c728ad315d.pdf",
+    "static/media/MTA_SQL.pdf": "/Asd_Portfolio/static/media/MTA_SQL.758cc540821db48936b7.pdf",
+    "static/media/Akshay_Resume_22.pdf": "/Asd_Portfolio/static/media/Akshay_Resume_22.a16d9129d264885d4c45.pdf",
+    "static/media/asdphoto1.png": "/Asd_Portfolio/static/media/asdphoto1.6fa41711e8e0f4542e69.png",
+    "static/media/GL_python.pdf": "/Asd_Portfolio/static/media/GL_python.db5431f6ac0c6b2829ff.pdf",
+    "static/media/Itpreneur_certificate.pdf": "/Asd_Portfolio/static/media/Itpreneur_certificate.624a00d6ea3fa9b4566d.pdf",
+    "static/media/about.png": "/Asd_Portfolio/static/media/about.52247b9fdf29d69322c1.png",
+    "static/media/contactus.png": "/Asd_Portfolio/static/media/contactus.56952d478ba849d8acd3.png",
+    "static/media/project-img.jpg": "/Asd_Portfolio/static/media/project-img.d905c871269bef99e3af.jpg",
+    "index.html": "/Asd_Portfolio/index.html",
+    "main.32f5f5bd.css.map": "/Asd_Portfolio/static/css/main.32f5f5bd.css.map",
+    "main.7957d6d5.js.map": "/Asd_Portfolio/static/js/main.7957d6d5.js.map",
+    "787.bb48cbbb.chunk.js.map": "/Asd_Portfolio/static/js/787.bb48cbbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f5f5bd.css",
+    "static/js/main.7957d6d5.js"
+  ]
+}
