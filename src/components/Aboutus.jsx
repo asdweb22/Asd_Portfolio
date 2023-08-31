@@ -23,7 +23,7 @@ export default function Aboutus() {
           <div className="col-md-6 my-3">
             <Fade right>
               <h2>Hello i am Akshay Dhongade,</h2>
-              <p>
+              <h4>
                 {" "}
                 I like to work on different skills like:
                 <ul>
@@ -34,7 +34,7 @@ export default function Aboutus() {
                   <li>Teaching-(Sharing Knowledge with others)</li>
                   <li>Freelancing</li>
                 </ul>
-              </p>
+              </h4>
             </Fade>
           </div>
         </div>

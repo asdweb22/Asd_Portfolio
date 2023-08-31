@@ -2,10 +2,6 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 
-// portfolio2 Started
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import PortfolioHome1 from "./components/PortfolioHome1";
-import PageNotFound from "./components/PageNotFound";
 import Home from "./components/Home";
 import Aboutus from "./components/Aboutus";
 import Experience from "./components/Experience";
