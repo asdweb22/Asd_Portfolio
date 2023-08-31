@@ -6,7 +6,7 @@ import Reveal from "react-reveal/Reveal";
 export default function Aboutus() {
   return (
     <div id="about">
-      <Banner title="About Us" />
+      <Banner title="About Me" />
       <div className="container about">
         <div className="row py-3">
           <div className="col-md-6 text-center">
